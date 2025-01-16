@@ -1,10 +1,9 @@
 #EXTM3U
-EXTINF:-1,ES: #VAMOS HD
+EXTINF:-1,ES: VAMOS HD
 http://exm3u.77xxs.xyz:80/live/he49606/FxVSVajpqcaG/321072.ts
-#EXTINF:-1,ES: #VAMOS SD
+#EXTINF:-1,ES: VAMOS SD
 http://exm3u.77xxs.xyz:80/live/he49606/FxVSVajpqcaG/321073.ts
-#EXTINF:-1,ES: DAZN FORMULA 1 SD
-  #EXTINF:-1,ES: LALIGA TV 3 HD
+#EXTINF:-1,ES: DAZN FORMULA 1 SD #EXTINF:-1,ES: LALIGA TV 3 HD
 http://exm3u.77xxs.xyz:80/live/he49606/FxVSVajpqcaG/953990.ts
 #EXTINF:-1,ES: LALIGA TV 4 HD
 http://exm3u.77xxs.xyz:80/live/he49606/FxVSVajpqcaG/953991.ts
